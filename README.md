@@ -8,9 +8,9 @@ This is a powershell script to Configure Active Directory Lab. This script doesn
     "totalServers":  "3",
     "domainName":  "example.lab",
     "domainNetBiosName":  "examplelab",
-    "childDomainName": "child"
+    "childDomainName": "child",
     "dnsServer":  "192.168.171.254",
-    "defaultGateway":  "192.168.171.2",
+    "defaultGateway": "192.168.171.2",
     "maskBits":  "24",
     "eaUserName":  "eauser",
     "eaPassword":  "MyL@bDCP@ssw0rd",
