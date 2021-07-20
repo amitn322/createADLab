@@ -1,0 +1,18 @@
+{
+    "totalServers":  "3",
+    "domainName":  "example.lab",
+    "domainNetBiosName":  "examplelab",
+    "dnsServer":  "192.168.171.254",
+    "defaultGateway":  "192.168.171.2",
+    "maskBits":  "24",
+    "eaUserName":  "eauser",
+    "eaPassword":  "MyL@bDCP@ssw0rd",
+    "AdminPassword":  "MyL@bDCP@ssw0rd",
+    "safeModeAdminPassword":  "MyL@bDCP@ssw0rd",
+    "dc1IPAddress":  "192.168.171.254",
+    "dc1HostName":  "dc01",
+    "dc2IPAddress":  "192.168.171.253",
+    "dc2HostName":  "dc02",
+    "dc3IPAddress": "192.168.171.252",
+    "dc3HostName":  "dc03"
+}
