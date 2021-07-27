@@ -32,12 +32,12 @@ Examples:
 
 ### On First Server:
 ```powershell
-.\configureADLab -serverNumber 1
+.\configureADLab --serverNumber 1
 ```
 
 ### Second Server:
 ```powershell
-.\configureADLab -serverNumber 2
+.\configureADLab --serverNumber 2
 ```
 ### Third Server:
 ```powershell
