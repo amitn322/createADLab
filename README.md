@@ -32,16 +32,16 @@ Examples:
 
 ### On First Server:
 ```powershell
-.\configureADLab --serverNumber 1
+.\configureADLab -serverNumber 1
 ```
 
 ### Second Server:
 ```powershell
-.\configureADLab --serverNumber 2
+.\configureADLab -serverNumber 2
 ```
 ### Third Server:
 ```powershell
-.\configureADLab --serverNumber 3
+.\configureADLab -serverNumber 3
 ```
 
 *Note:* Do not run script upon reboot. It will automatically Continue until the configuration is complete. 
